@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 🔮
 
-<!--
-**lucas-txt/lucas-txt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o lucas, 18 anos e facinado por computadores. Adoro problemas logiscos, de enigmas a matemática e sudoku! Programação é magia e eu sem duvidas quero ser um mago!!!🧙‍♂️🪄
 
-Here are some ideas to get you started:
+- 🔭 Buscando primeira vaga como desenvolvedor 
+- 🌱 Estudando Front-end
+- ⚡ Procurando sempre aprender mais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-txt&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-txt&layout=compact&langs_count=20&card_width=320&theme=merko" />
+</a>
+
