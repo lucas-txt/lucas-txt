@@ -11,7 +11,4 @@ Sou o lucas, 18 anos e facinado por computadores. Adoro problemas logiscos, de e
 - 🌱 Estudando Front-end
 - ⚡ Procurando sempre aprender mais
 
-Meus principais repositórios: 
-
-
-
+✨ Meus repositórios estão organizados por categorias, acesse a aba de estrelas para ver ⭐. 
