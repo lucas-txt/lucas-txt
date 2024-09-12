@@ -11,4 +11,4 @@ Sou o lucas, 18 anos e facinado por computadores. Adoro problemas logiscos, de e
 - 🌱 Estudando Front-end
 - ⚡ Procurando sempre aprender mais
 
-✨ Para ver meus repositórios em uma lista organizada e descritiva clique [aqui](https://github.com/lucas-txt/lucas-txt-repos/tree/master). ⭐ 
+✨ Se você quiser pode ver meu [caderno](https://excessive-taste-ff6.notion.site/TECNOLOGIA-fd6768914d414ef0b663320633b40caf) de estudos sobre tecnologia ou meus [repositórios](https://github.com/lucas-txt/lucas-txt-repos/tree/master) organizados em uma lista descritiva. ⭐ 
