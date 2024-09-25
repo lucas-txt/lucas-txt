@@ -6,9 +6,8 @@
 </a>
 
 # Hello word🔮
-Sou o Lucas tenho 18 anos e sou autodidata em tecnologia des de os 13. Adoro problemas logiscos, de enigmas a matemática e sudoku! Programação é magia e eu sem duvidas quero ser um mago!!!🧙‍♂️🪄
+✨ Se você quiser pode ver meu [caderno](https://excessive-taste-ff6.notion.site/TECNOLOGIA-fd6768914d414ef0b663320633b40caf) de estudos sobre tecnologia ou meus [repositórios](https://github.com/lucas-txt/lucas-txt-repos/tree/master) organizados em uma lista descritiva. ⭐ 
 - 🔭 Buscando primeira vaga como desenvolvedor 
 - 🌱 Estudando Front-end
 - ⚡ Procurando sempre aprender mais
 
-✨ Se você quiser pode ver meu [caderno](https://excessive-taste-ff6.notion.site/TECNOLOGIA-fd6768914d414ef0b663320633b40caf) de estudos sobre tecnologia ou meus [repositórios](https://github.com/lucas-txt/lucas-txt-repos/tree/master) organizados em uma lista descritiva. ⭐ 
