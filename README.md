@@ -6,7 +6,7 @@
 </a>
 
 # Hello word🔮
-Sou o lucas, 18 anos e facinado por computadores. Adoro problemas logiscos, de enigmas a matemática e sudoku! Programação é magia e eu sem duvidas quero ser um mago!!!🧙‍♂️🪄
+Sou o Lucas tenho 18 anos e sou autodidata em tecnologia des de os 13. Adoro problemas logiscos, de enigmas a matemática e sudoku! Programação é magia e eu sem duvidas quero ser um mago!!!🧙‍♂️🪄
 - 🔭 Buscando primeira vaga como desenvolvedor 
 - 🌱 Estudando Front-end
 - ⚡ Procurando sempre aprender mais
